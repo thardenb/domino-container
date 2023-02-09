@@ -1,3 +1,4 @@
-software/*.tar
+software/*.tar*
+software/*.tgz
 software/*.zip
 !*.md
